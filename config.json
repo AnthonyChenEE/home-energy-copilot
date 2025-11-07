@@ -1,8 +1,14 @@
 {
-  "IFTTT_KEY": "your_ifttt_key_here",
+  "IFTTT_KEY": "YOUR_IFTTT_KEY_HERE",
+
   "DEVICE_TOPICS": {
     "ac": "home/ac",
     "charger": "garage/ev_charger",
     "lamp": "livingroom/lamp"
+  },
+
+  "TARIFF_CONFIG": {
+    "LOW_TARIFF_START": 22,
+    "LOW_TARIFF_END": 7
   }
 }
