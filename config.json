@@ -1,0 +1,8 @@
+{
+  "IFTTT_KEY": "your_ifttt_key_here",
+  "DEVICE_TOPICS": {
+    "ac": "home/ac",
+    "charger": "garage/ev_charger",
+    "lamp": "livingroom/lamp"
+  }
+}

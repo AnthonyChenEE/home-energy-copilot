@@ -1,0 +1,23 @@
+{
+  "name": "Home Energy Copilot",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "An AI-powered G-Assist plug-in that optimizes home energy usage and controls smart devices.",
+  "commands": [
+    {
+      "name": "optimize_energy",
+      "description": "Analyze real-time energy price and adjust smart plugs or EV charging accordingly."
+    },
+    {
+      "name": "turn_on_device",
+      "description": "Turn on a specific home device (e.g., light, AC, charger)."
+    },
+    {
+      "name": "turn_off_device",
+      "description": "Turn off a specific home device."
+    }
+  ],
+  "language": "Python",
+  "entry_point": "plugin.py",
+  "dependencies": "requirements.txt"
+}
